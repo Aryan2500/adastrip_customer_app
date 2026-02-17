@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "256564576967",
+    "project_id": "adastrip-2ddd3",
+    "storage_bucket": "adastrip-2ddd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256564576967:android:fb9a8254ce4ccc151bb4e2",
+        "android_client_info": {
+          "package_name": "com.adastrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256564576967-gd6qoqirf680d46titbtpv30k8cmfubm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adastrip",
+            "certificate_hash": "bd135538f2347f6f8edd7dec710d4b349a467cc3"
+          }
+        },
+        {
+          "client_id": "256564576967-5jnmnnmqjibthj3r9lf431iuof3tt6ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQHWkgTul5nCcDSOxRAffBllUADabIm3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256564576967-5jnmnnmqjibthj3r9lf431iuof3tt6ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256564576967-5fcosvnoramb86kt58soh8jdvvk36knh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cabme.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
