@@ -48,6 +48,50 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256564576967:android:253dd534447f63b41bb4e2",
+        "android_client_info": {
+          "package_name": "com.adastrip.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256564576967-nsnd8aauopkeo36bpsp62gn34tdir8g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adastrip.driver",
+            "certificate_hash": "bd135538f2347f6f8edd7dec710d4b349a467cc3"
+          }
+        },
+        {
+          "client_id": "256564576967-5jnmnnmqjibthj3r9lf431iuof3tt6ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQHWkgTul5nCcDSOxRAffBllUADabIm3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256564576967-5jnmnnmqjibthj3r9lf431iuof3tt6ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256564576967-5fcosvnoramb86kt58soh8jdvvk36knh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cabme.ios"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
